@@ -61,4 +61,4 @@ spring-mvc-search-app
 
 ## Application Screenshot
 
-![Search Page](screenshots/search-ui.png)
+![Search Page](screenshots/Screenshot 2026-01-13 182423.png)
