@@ -59,3 +59,6 @@ spring-mvc-search-app
 
 6.The search page will load. Enter a keyword and click Search.
 
+## Application Screenshot
+
+![Search Page](screenshots/search-ui.png)
